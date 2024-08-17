@@ -10,3 +10,4 @@ Fig.2 Distirbution of the study participants by site.
 Fig.1 Stacked bar graph showing the distribution of key roles by origin.
 Information sheet for study particpant.
 Study data in excel format.
+Data are available under the terms of the creative commons Attribution 4.0 International License (CCO-BY 4.0).
